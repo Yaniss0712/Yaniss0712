@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanis</h1>
 <h3 align="center">A passionate of Data</h3>
 
-- 🔭 I’m currently working on **Orangecyberdéfense**
+- 🔭 IJe suis à la recherche de nouvelles opportunités !!
 
 - 👯 I’m looking to collaborate on **Data science Project**
 
